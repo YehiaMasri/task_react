@@ -118,6 +118,7 @@ function Table() {
 		pagination: true,
 		rowsPerPage: 5,
         searchPlaceholder: "Search for Items",
+        viewColumns:false,
 		rowsPerPageOptions: [5],
 	};
 
