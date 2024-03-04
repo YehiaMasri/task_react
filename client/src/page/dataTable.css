@@ -1,0 +1,59 @@
+.MuiPaper-root > .MuiToolbar-root {
+	background: #000;
+	color: #fff;
+}
+.MuiSvgIcon-root:hover,
+.MuiButtonBase-root:hover {
+	color: #40b2c2 !important;
+}
+.MuiSvgIcon-root,
+.MuiButtonBase-root {
+	color: #fff;
+}
+.delete {
+	background-color: red;
+	border: none;
+	cursor: pointer;
+	height: 40px;
+    border-radius: 50px;
+    color: #fff;
+    margin-right: 10px;
+}
+.increment{
+    background-color: #40b2c2;
+	border: none;
+	cursor: pointer;
+	height: 40px;
+    border-radius: 50px;
+    color: #fff;
+    margin-right: 10px;
+}
+.title {
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 2px;
+}
+.qty{
+    text-align: center;
+    height: 40px;
+}
+.func{
+    display: flex;
+    justify-content: center;
+    margin-left: 22px;    
+}
+.tss-178gktx-MUIDataTableHeadCell-contentWrapper{
+    justify-content: center;
+}
+.tss-1vd39vz-MUIDataTableBodyCell-stackedCommon {
+    text-align: center;
+}
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root {
+    background-color: #000 !important;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+    color: #fff !important;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input::placeholder{
+color: #fff !important;
+}
